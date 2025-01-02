@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Welcome</h1>
 
-<!--
-**pwoltschk/pwoltschk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Pawe, a Software Developer from the beautiful city of 
+Zurich, Switzerland. I love exploring new tech, so you’ll often
+find me experimenting with new tools and frameworks. 
 
-Here are some ideas to get you started:
+Curious about whatI'm building? 
+Feel free to check out the links below!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInHandle/)
+[![Linkedin Badge](https://img.shields.io/badge/Pawel%20Woltschkow%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-woltschkow/)
+[![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22240478/pwoltschk)
+[![Github Bade](https://img.shields.io/badge/linkdotnet-100000?style=flate&logo=github&logoColor=white)](https://github.com/linkdotnet/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@YourMediumHandle)
+![](https://komarev.com/ghpvc/?username=linkdotnet)
