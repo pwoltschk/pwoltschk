@@ -11,6 +11,6 @@ Feel free to check out the links below!
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@p.woltschkow)
 ![](https://komarev.com/ghpvc/?username=pwoltschk)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pwoltschk&show_icons=true&theme=default&include_all_commits=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pwoltschk&show_icons=true&theme=default&include_all_commits=true&hide=contribs,prs)
 
 
