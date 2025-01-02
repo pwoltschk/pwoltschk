@@ -11,6 +11,5 @@ Feel free to check out the links below!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInHandle/)
 [![Linkedin Badge](https://img.shields.io/badge/Pawel%20Woltschkow%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-woltschkow/)
 [![Stackoverflow Badge](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22240478/pwoltschk)
-[![Github Bade](https://img.shields.io/badge/linkdotnet-100000?style=flate&logo=github&logoColor=white)](https://github.com/linkdotnet/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@YourMediumHandle)
-![](https://komarev.com/ghpvc/?username=linkdotnet)
+![](https://komarev.com/ghpvc/?username=pwoltschk)
